@@ -3117,7 +3117,7 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #c2222f;
+			background-color: #c23916;
 			color: #F2A18C;
 		}
 
@@ -3985,6 +3985,11 @@
 
         #banner h5 {
 			font-size: .5em;
+			margin-bottom: .25em;
+			color: #FFF;
+		}
+        #banner h6 {
+			font-size: .6em;
 			margin-bottom: .25em;
 			color: #FFF;
 		}
